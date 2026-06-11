@@ -46,4 +46,3 @@ Optimized for desktop, tablet, and mobile devices.
 ### Desktop View
 ### Tablet View
 ### Mobile View
-## Live Website
